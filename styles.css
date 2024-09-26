@@ -110,3 +110,7 @@ footer {
     background-color: #2C3E50;
     color: white;
 }
+
+main iframe {
+    padding-left: 200px;
+}
